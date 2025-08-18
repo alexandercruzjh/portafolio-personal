@@ -14,7 +14,7 @@ Incluye secciones sobre mí, mi currículum y enlaces a mis redes profesionales.
 - Imágenes e íconos personalizados
 
 ## Vista previa
-[Visitar portafolio](https://alexandercruzjh.github.io/portafolio-personal/)
+[Visitar portafolio](https://portafolio-personal-one-tawny.vercel.app/)
 
 ## Contacto
 - **LinkedIn:** [Alexander Cruz](https://www.linkedin.com/in/alexander-cruz-480526351)
